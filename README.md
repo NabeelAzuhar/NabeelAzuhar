@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabeelazuhar&label=Profile%20views&color=0e75b6&style=flat" alt="nabeelazuhar" /> </p>
 
-- 🔭 I’m currently working on [InsulinTracker](https://github.com/NabeelAzuhar/InsulinTracker)
+- 🔭 I’m currently working on [Diabetter](https://github.com/NabeelAzuhar/Diabetter)
 
 - 💬 Ask me about **Python, Flutter, Game Dev**
 
